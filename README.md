@@ -1,1 +1,1 @@
-# GI-Bot-ML-Assisment
+# GI-Bots-ML-Assisment
