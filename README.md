@@ -7,17 +7,15 @@ This repository contains code for an assignment related to Machine Learning usin
 First, clone the GitHub repository to your local machine. Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command:
 
 ```
-git clone https://github.com/[username]/[repository-name].git
+git clone: https://github.com/Aditya7458/GI-Bots-ML-Assisment/
 ```
-
-Replace `[username]` with the GitHub username of the repository owner and `[repository-name]` with the actual name of the repository.
 
 ## Step 2: Install Required Libraries
 
 After cloning the repository, navigate to the cloned directory:
 
 ```
-cd [repository-name]
+cd GI-Bots-ML-Assisment
 ```
 
 Before running the code, ensure you have installed the required libraries. Open the `requirements.txt` file in the repository and note down the libraries listed there.
